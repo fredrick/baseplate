@@ -12,7 +12,7 @@ This is where your javascript files reside. There's even a blank `main.js` at th
 
     stylesheets/
     
-Life would boring without some flair. Baseplate conveniently includes `reset.css` to wipe the slate clean across all browsers. `style.css` is a blank canvas waiting for some loving.
+Life would boring without some flair. Baseplate conveniently includes a `reset.css` to wipe the slate clean across all browsers. `style.css` is a blank canvas waiting for some loving.
 
     index.html
     
