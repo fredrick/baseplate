@@ -2,7 +2,7 @@
 Baseplate is a quick, easily fetchable starting point. It doesn't assume any particular libraries, but is rather a gentle convention to starting your next web development project.
 
 ##License
-Seriously? Public domain: but feel free to give some credit.
+Seriously? Public domain: but feel free to give some [credit](https://github.com/wayoutmind).
 
 ##Overview
     
